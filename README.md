@@ -1,4 +1,4 @@
-# Ashadapu Ashwitha | Computer Science Engineering Portfolio 🌟
+# Ashadapu Ashwitha | Computer Science Engineering Portfolio 
 
 Welcome to my official professional portfolio repository! This repository hosts the live code for my digital resume and showcase site. 
 
